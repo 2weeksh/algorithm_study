@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# C/C++/Java build outputs
+*.exe
+*.o
+*.out
+*.class
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
